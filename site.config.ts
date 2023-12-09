@@ -62,7 +62,7 @@ export default siteConfig({
     },
     {
       title: 'Contact US',
-      pageId: 'f50ef08e0b2d4cf29607830f8461cd87'
+      pageId: 'Hareesh-96b592d5530d421c89263a8eebf1054a'
     }
   ]
 })
