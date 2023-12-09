@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Transitive Bullshit',
-  domain: 'transitivebullsh.it',
+  domain: 'directfcl.com',
   author: 'Travis Fischer',
 
   // open graph metadata (optional)
